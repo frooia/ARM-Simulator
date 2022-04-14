@@ -1,0 +1,4 @@
+# ninja log v5
+1	179	1649890475060979142	build.ninja	f4ec2ddf3de14adc
+2	885	1649847951654768238	CMakeFiles/ARM_Simulator.dir/ARMsim.cpp.o	797f4c3f1da954a9
+885	956	1649847951730703643	ARM_Simulator	fec99edfc344cc7e
